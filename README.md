@@ -1,0 +1,1 @@
+Currently this is an odin recipes project i only added the necessary text and linking to the recipes i did not do the css yet
